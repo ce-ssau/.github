@@ -1,6 +1,6 @@
 <h6 align="center">Welcome to</h6>
-<h1 align="center">Shahid Sattari Aeronautical University, Computer Engineering Department</h1>
-
+<h1 align="center">Shahid Sattari Aeronautical University</h1>
+<h2 align="center">Computer Engineering Department</h2>
 
 ## Who we are?
 
